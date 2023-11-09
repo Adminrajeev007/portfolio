@@ -532,7 +532,8 @@ img {
     -webkit-transform calc(var(--d) * 2) var(--e);
 }
 .d_card:nth-child(1):before {
-  background-image: url(image/youtube-downloader.png)
+  background-image: url(image/using-python.jpg);
+ background-size: 250px;
 
 }
 .d_card:nth-child(2):before {
@@ -651,3 +652,11 @@ d_card:nth-child(7):before {
 	margin-left: 30px;
 	margin-top: 1px;
 }
+#removedot{
+	list-style-type: none;
+}
+
+
+/*social cards*/
+
+
